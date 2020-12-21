@@ -1,0 +1,5 @@
+Credentials cache: API:B036CC59-BD8B-4204-B05D-B5AA7336DEDA
+        Principal: grivalan@42LYON.FR
+
+  Issued                Expires             Flags    Principal
+Sep  7 12:31:56 2020  Sep  8 12:31:56 2020  FPIA   krbtgt/42LYON.FR@42LYON.FR
